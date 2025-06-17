@@ -31,7 +31,7 @@ figlet lolcat git python3 pip tor golang php curl
 
 ```bash
 git clone https://github.com/Wish690/Stony.git
-cd 
+cd Stony
 chmod +x Stony.sh
 ./Stony.sh
 ```
