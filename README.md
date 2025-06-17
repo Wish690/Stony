@@ -1,4 +1,4 @@
-# ⚔️ RaavanXploit
+# ⚔️ Stony
 
 ![The Best Online Hacker Typer Simulator_ Pranx_com](https://github.com/user-attachments/assets/96d89443-ff5d-4b52-b3f8-5d7bef4bcc3a)
 
@@ -30,20 +30,20 @@ figlet lolcat git python3 pip tor golang php curl
 ## 🚀 Installation & Usage
 
 ```bash
-git clone https://github.com/Wish690/RaavanXploit.git
-cd RaavanXploit
-chmod +x raavanxploit.sh
-./raavanxploit.sh
+git clone https://github.com/Wish690/Stony.git
+cd 
+chmod +x Stony.sh
+./Stony.sh
 ```
 
 ## 📸 Preview
 
-![RaavanXploit-Banner](https://github.com/user-attachments/assets/7308af99-a522-41ad-8503-cfbc06ba6f2c)
+
 
 
 ## 🔐 Disclaimer
 
-> ⚠️ This tool is for **educational purposes only**. The developers are not responsible for any misuse or damage caused by RaavanXploit.
+> ⚠️ This tool is for **educational purposes only**. The developers are not responsible for any misuse or damage caused by Stony.
 
 ## 👨‍💻 Authors & Credits
 
